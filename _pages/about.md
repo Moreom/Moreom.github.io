@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
+About Me
 
-I am Moreom Akter, a physics graduate with two Master's degrees from the United States, including a thesis-based M.Sc. in Physics (Astrophysics) from the University of North Dakota.
+I am a physics graduate with two Master's degrees from the United States, including a thesis-based M.Sc. in Physics (Astrophysics) from the University of North Dakota.
 
 
 During my thesis, I investigated the influence of active galactic nuclei (AGN) feedback on star formation in face-on spiral galaxies using multi-wavelength observations from SDSS, Chandra, XMM-Newton, WISE, and other astronomical surveys. This work resulted in a first-author peer-reviewed publication and strengthened my interests in galaxy evolution, AGN feedback, and observational astrophysics.
