@@ -26,8 +26,8 @@ author:
   avatar           : "Headshoot.png"
   name             : "Moreom Akter"
   pronouns         : # example: "she/her"  
-  bio              : "M.Sc. Physics (Astrophysics), University of North Dakota. Interested in galaxy evolution, AGN feedback, dark matter, and multi-wavelength astronomy."
-  location         : "Dhaka, Bangladesh"
+  bio              : "M.Sc. Physics (Astrophysics), University of North Dakota."
+  location         : "USA"
   employer         : "University of North Dakota"
   uri              : # URL
   email            : "moreomakter94@gmail.com" 
@@ -41,8 +41,8 @@ author:
   orcid            : "https://orcid.org/0000-0003-1825-1214"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #URL
+  researchgate     : "https://www.researchgate.net/profile/Moreom-Akter-2?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/moreom-akter-aa768a169/?isSelfProfile=true"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
