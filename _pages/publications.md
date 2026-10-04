@@ -7,7 +7,6 @@ author_profile: true
 
 ## First-Author Publications
  
-HTML
 <li>
 <a href="https://doi.org/10.1016/j.newast.2026.102535">
 <strong>The Influence of AGN Feedback on Star Formation in Red Spiral Galaxies</strong>
