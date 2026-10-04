@@ -4,33 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+title: "The Influence of AGN Feedback on Star Formation in Red Spiral Galaxies"
+collection: publications
+category: manuscripts
+permalink: /publication/agn-feedback
+excerpt: "First-author publication on AGN feedback and galaxy evolution."
+date: 2026-01-01
+venue: "New Astronomy"
+paperurl: "https://doi.org/10.1016/j.newast.2026.102535"
+citation: "Akter, M., Barkhouse, W. A., Kalawila Vithanage, S. P., Gamage, G. L., López-Cruz, O. (2026). The Influence of AGN Feedback on Star Formation in Red Spiral Galaxies. New Astronomy, 125, 102535."
+---
+ 
+This first-author publication investigates the influence of AGN feedback on star formation in red spiral galaxies using multi-wavelength observations from SDSS, Chandra, XMM-Newton, and WISE.
 
 
 
