@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 Welcome!
-I am Moreom Akter, a physics graduate with two Master's degrees from the USA, including one M.Sc. in thesis based in Astrophysics from the University of North Dakota.
 
+I am Moreom Akter, a physics graduate with two Master's degrees from the United States, including a thesis-based M.Sc. in Physics (Astrophysics) from the University of North Dakota.
 My research interests include:
  
 - Galaxy Evolution
