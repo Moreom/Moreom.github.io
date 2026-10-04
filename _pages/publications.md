@@ -24,7 +24,7 @@ Akter, M., Barkhouse, W. A., Kalawila Vithanage, S. P., Gamage, G. L., López-Cr
 <strong>Properties of Cluster Red-Sequence Spiral Galaxies</strong>
 </a><br>
  
-Barkhouse, W. A., Kashur, L., Akter, M., et al.<br>
+Barkhouse, W. A., Kashur, L., Akter, M., Kalawila Vithanage, S. P., Gamage, G. L., López-Cruz, O.<br>
  
 <em>New Astronomy (2026)</em>
 </li>
