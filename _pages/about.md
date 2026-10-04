@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Moreom Akter"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
