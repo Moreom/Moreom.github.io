@@ -24,5 +24,7 @@ My research experience spans multi-wavelength astronomy, galaxy evolution, AGN f
 My current research interests include galaxy evolution, AGN feedback, multi-wavelength astronomy, and observational astrophysics. I am particularly interested in understanding how galaxies evolve across cosmic time, how feedback processes regulate star formation, and how dark matter influences the structure and evolution of galaxies. I am also interested in large-scale cosmology and the connection between galaxies, dark matter halos, and the formation of cosmic structures in the Universe.
 
 
-As you explore my website, you will find information about my research projects, publications, conference presentations, teaching experience, and outreach activities. I am always open to scientific collaboration, discussion, and opportunities to contribute to astrophysical research.
+Thank you for visiting my website. I hope you find my research, publications, and projects informative and engaging. I am always excited to connect with fellow researchers, students, and anyone interested in astronomy and astrophysics.
+ 
+Thank you for stopping by, and enjoy exploring the Universe with me! 🚀🔭
  
