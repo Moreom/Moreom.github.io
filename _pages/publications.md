@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 ## First-Author Publications
  
 HTML
@@ -17,7 +18,7 @@ Akter, M., Barkhouse, W. A., Kalawila Vithanage, S. P., Gamage, G. L., López-Cr
 <em>New Astronomy (2026)</em>
 </li>
  
-## Co-Authored Publications
+** ## Co-Authored Publications**
  
 <li>
 <a href="https://doi.org/10.1016/j.newast.2026.102588">
