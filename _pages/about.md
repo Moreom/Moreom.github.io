@@ -12,29 +12,17 @@ Welcome!
 I am Moreom Akter, a physics graduate with two Master's degrees from the United States, including a thesis-based M.Sc. in Physics (Astrophysics) from the University of North Dakota.
 
 
-My research interests include:
- 
-- Galaxy Evolution
-- Active Galactic Nuclei (AGN)
-- Dark Matter
-- Radio Astronomy
-- Star formation
-- Spectral Energy Distribution (SED) Analysis
-- Cosmology and Large-Scale Structure
- 
-
-My research experience includes multi-wavelength galaxy studies and observational astrophysics. I am particularly interested in understanding galaxy evolution, feedback processes, and the role of dark matter in shaping cosmic structures.
-
-
-## Education
-
-**M.Sc. Physics (Astrophysics)**
-University of North Dakota, USA (2022–2025)
+During my thesis, I investigated the influence of active galactic nuclei (AGN) feedback on star formation in face-on spiral galaxies using multi-wavelength observations from SDSS, Chandra, XMM-Newton, WISE, and other astronomical surveys. This work resulted in a first-author peer-reviewed publication and strengthened my interests in galaxy evolution, AGN feedback, and observational astrophysics.
 
  
- **M.Sc. Physics (Astrophysics)**
-Western Illinois University, USA (2021-2022)
+Prior to my thesis research, I conducted radio astronomy research at Western Illinois University, where I analyzed VLASS radio continuum observations of ionized jet candidates in high-mass star-forming regions. My work involved processing radio survey data, constructing spectral energy distributions (SEDs), performing spectral-index analysis, and developing Python-based pipelines for astronomical data analysis. The project was presented at the 240th American Astronomical Society meeting and received recognition at the Illinois State Academy of Science.
 
  
- **B.Sc. (Honours) Physics**
- Kabi Nazrul Government College, Dhaka, as the affiliated college of the University of Dhaka, Bangladesh (2013-2018)
+My research experience spans multi-wavelength astronomy, galaxy evolution, AGN feedback, radio astronomy, and scientific computing. I have worked with large astronomical datasets and observational surveys, applying statistical techniques and Python-based analysis tools to investigate the physical processes that shape galaxies and their environments.
+
+ 
+My current research interests include galaxy evolution, AGN feedback, multi-wavelength astronomy, and observational astrophysics. I am particularly interested in understanding how galaxies evolve across cosmic time, how feedback processes regulate star formation, and how dark matter influences the structure and evolution of galaxies. I am also interested in large-scale cosmology and the connection between galaxies, dark matter halos, and the formation of cosmic structures in the Universe.
+
+
+As you explore my website, you will find information about my research projects, publications, conference presentations, teaching experience, and outreach activities. I am always open to scientific collaboration, discussion, and opportunities to contribute to astrophysical research.
+ 
