@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Headshoot.png"
   name             : "Moreom Akter"
   pronouns         : # example: "she/her"  
   bio              : "M.Sc. Physics (Astrophysics), University of North Dakota. Interested in galaxy evolution, AGN feedback, dark matter, and multi-wavelength astronomy."
