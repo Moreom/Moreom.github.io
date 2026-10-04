@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: 
+title: About Me
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About Me
 
 I am a physics graduate with two Master's degrees from the United States, including a thesis-based M.Sc. in Physics (Astrophysics) from the University of North Dakota.
 
