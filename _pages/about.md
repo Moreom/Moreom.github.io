@@ -20,6 +20,7 @@ My research interests include:
 - Spectral Energy Distribution (SED) Analysis
 - Cosmology and Large-Scale Structure
  
+
 My research experience includes multi-wavelength galaxy studies and observational astrophysics. I am particularly interested in understanding galaxy evolution, feedback processes, and the role of dark matter in shaping cosmic structures.
 
 
