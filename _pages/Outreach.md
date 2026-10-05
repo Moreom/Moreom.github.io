@@ -53,7 +53,13 @@ Managed organizational finances and coordinated fundraising activities, helping 
 Organized cultural programs, coordinated student activities, and supported community engagement initiatives.
 </p>
  
-<h2>Astronomy Outreach & Recognition</h2>
+<h2>Astronomy Outreach & Competitions</h2>
+ 
+<p style="margin-bottom:15px;">
+<strong>Physics Brawl Online Competition</strong> (November 2020)<br>
+ 
+Participated in an international physics problem-solving competition involving collaborative and rapid analytical challenges.
+</p>
  
 <p style="margin-bottom:15px;">
 <strong>International Astronomy and Astrophysics Competition</strong> (2020)<br>
@@ -72,3 +78,15 @@ Identified an asteroid using Astrometrica software through an international aste
  
 Participated in astronomy outreach activities and educational programs promoting public engagement with astronomy.
 </p>
+
+<h2>Professional Development</h2>
+ 
+<p style="margin-bottom:15px;">
+<strong>Mentors Helping Mentors Workshop Series</strong>,
+University of North Dakota (August 2024)<br>
+ 
+Successfully completed a professional-development program focused on effective mentoring practices. Developed a personal mentoring philosophy and participated in collaborative problem-solving activities designed to strengthen mentor-mentee communication and incorporate diverse perspectives.
+ 
+(<a href="https://und.edu/academics/graduate-school/academic-career-support/mentors-helping-mentors.html">Program Information</a>)
+</p>
+Show more lines
