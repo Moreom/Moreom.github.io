@@ -38,6 +38,14 @@ Presented an outreach talk entitled <em>Exploring the Night Sky: Past, Present, 
  
 (<a href="https://sites.google.com/wiu.edu/exploring-the-night-sky/home">Outreach Website</a>)
 </p>
+
+<h2>Community Engagement</h2>
+
+<p style="margin-bottom:15px;">
+<strong>Volunteer Member</strong>,UND International Organization (2023–2025)<br>
+ 
+Participated in the 62nd Annual Feast of Nations and supported international cultural outreach activities promoting global engagement and diversity.
+</p>
  
 <h2>Leadership</h2>
  
@@ -89,4 +97,3 @@ Successfully completed a professional-development program focused on effective m
  
 (<a href="https://und.edu/academics/graduate-school/academic-career-support/mentors-helping-mentors.html">Program Information</a>)
 </p>
-Show more lines
