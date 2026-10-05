@@ -15,7 +15,6 @@ author_profile: true
 </a><br>
  
 Akter, M., Barkhouse, W. A., Kalawila Vithanage, S. P., Gamage, G. L., López-Cruz, O. <br>
-
 <em>New Astronomy (2026)</em>
 </li>
 </ul>
@@ -29,7 +28,6 @@ Akter, M., Barkhouse, W. A., Kalawila Vithanage, S. P., Gamage, G. L., López-Cr
 </a><br>
  
 Barkhouse, W. A., Kashur, L., Akter, M., Kalawila Vithanage, S. P., Gamage, G. L., López-Cruz, O. <br>
-
 <em>New Astronomy (2026)</em>
 </li>
 </ul>
